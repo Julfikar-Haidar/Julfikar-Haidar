@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Julfikar Haidar
-#### I'm a software developer 
+#### I'm a Software Engineer 
 
 Skills: JavaScript / React JS  / Next JS / Vue JS /  Express JS / Redux / Redux-toolkit /  HTML / CSS / Tailwind / Docker
 
