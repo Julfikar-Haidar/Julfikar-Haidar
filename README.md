@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Julfikar Haidar
 #### I'm a Software Engineer 
 
-Skills: JavaScript / React JS  / Next JS / Vue JS /  Express JS / Redux / Redux-toolkit /  HTML / CSS / Tailwind / Docker
+Skills: JavaScript / TypeScript / React JS  / Next JS / Vue JS /  Express JS / Redux / Redux-toolkit /  HTML / CSS / Tailwind / Docker
 
 - 🔭 I’m currently working on TechnoNext Ltd. 
 
